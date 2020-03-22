@@ -13,7 +13,6 @@
         <version>1.0</version>
     </parent>
     <artifactId>milk-module</artifactId>
-    <name>milk-module</name>
     <description>业务模块</description>
 
     <properties>

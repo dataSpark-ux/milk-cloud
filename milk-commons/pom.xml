@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <packaging>pom</packaging>
     <modules>
-        <module>mike-commons-utils</module>
+        <module>milk-commons-utils</module>
     </modules>
 
     <parent>
@@ -12,8 +12,8 @@
         <artifactId>milk-cloud</artifactId>
         <version>1.0</version>
     </parent>
-    <artifactId>commons</artifactId>
-    <name>commons</name>
+
+    <artifactId>milk-commons</artifactId>
     <description>工具包</description>
 
 
